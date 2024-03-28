@@ -1,7 +1,7 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
 :root {
   --app-font: "Google Sans";
-  --app-bg: (https://cdn.discordapp.com/attachments/1221486307730260190/1222830622884626502/1338277_1.png?ex=6617a4c3&is=66052fc3&hm=ce09286f5ef437b00e004000110133968cd8855e7fa3614ae487e7ed0740af04&);
+  --app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
   --app-blur: 2px
   --main-rgb: 0,0,0;
   --main-content-opacity: 0.0;
